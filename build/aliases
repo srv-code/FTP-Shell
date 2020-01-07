@@ -1,0 +1,2 @@
+alias b='javac -d out -cp "/mnt/c/Program Files/Java/jdk1.8.0_212/jre/lib/proj/apache/commons-net-3.6.jar" src/fs/ftp/shell/StandardExitCodes.java src/fs/ftp/shell/FTPShell.java src/fs/ftp/handler/FTPHandler.java'
+alias r='java -cp "/mnt/c/Program Files/Java/jdk1.8.0_212/jre/lib/proj/apache/commons-net-3.6.jar:out/" fs.ftp.shell.FTPShell'

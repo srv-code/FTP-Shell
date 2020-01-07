@@ -1,0 +1,18 @@
+out/
+.idea/
+tmp/
+test/
+nbproject/
+lib/
+data/
+build.xml 
+*.iml
+manifest.mf
+
+# deprecated / help files 
+src/fs/ftp/shell/FTPOperations.java
+src/fs/ftp/shell/FTPUserCredentials.java
+src/fs/ftp/shell/snippet1.java.tmp
+src/fs/ftp/handler/FTPHandler-copy,move,paste.java.excerpt
+src/fs/ftp/handler/FTPHandler.java.old
+src/fs/ftp/handler/Test2.java.sample
