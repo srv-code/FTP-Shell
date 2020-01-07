@@ -1,4 +1,4 @@
-# List 
+# FTP Shell 
 ## Synopsis
 A shell to operate on remote file systems using FTP protocol.
 
